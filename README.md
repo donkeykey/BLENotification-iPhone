@@ -1,1 +1,1 @@
-# 特定のUUIDを持つPeripheralを見つけるとLocalNotificationを通知するCentral
+## 特定のUUIDを持つPeripheralを見つけるとLocalNotificationを通知するCentral
